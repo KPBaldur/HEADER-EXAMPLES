@@ -156,7 +156,9 @@ header .contenedor4 .icon {
     align-items: center;
 }
 
-header .contenedor4 .icon 
+header .contenedor4 .Titulo{
+    color: aliceblue;
+}
 
 header .contenedor4 .icon input {
     display: inline-block;
@@ -289,11 +291,11 @@ header .contenedor7 {
 header .contenedor7 h1 {
     color: #fff;
     user-select: none;
-    transition: all 0.9s;
+    transition: all 0.5s;
 }
 
 header .contenedor7 h1:hover {
-    color: blue;
+    color: aquamarine;
     
 }
 
