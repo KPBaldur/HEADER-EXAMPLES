@@ -154,6 +154,11 @@ header .contenedor4 .icon {
     display: flex;
     padding: 0 20px;
     align-items: center;
+    justify-content: space-between;
+}
+
+header .contenedor4 .icon img{
+    margin: 15px;
 }
 
 header .contenedor4 .Titulo{
